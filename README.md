@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammadzaid07
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Mohammad Zaid,
+- 👀 I’m a CSE student
+- 🌱 I’m currently learning C and Python
 - 📫 Reach me at mohdzaid07091997@gmail.com
 
 <!---
