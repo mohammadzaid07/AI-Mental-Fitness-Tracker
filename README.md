@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Zaid,
-- 👀 I’m a CSE student
-- 🌱 I’m currently learning C and Python
+- 👀 I’m a CSE student.
+- 🌱 I’m learning Full stack development, Python and C.
 - 📫 Reach me at mohdzaid07091997@gmail.com
 
 <!---
