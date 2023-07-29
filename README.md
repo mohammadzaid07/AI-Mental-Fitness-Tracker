@@ -1,3 +1,5 @@
+I have done this project as a part of my Internship with IBM Skillsbuild and Edunet Foundation.
+
 PROJECT  OVERVIEW 
 
 The AI Mental Fitness Tracker project aims to develop a machine learning-based system that monitors and enhances users' mental well-being. 
