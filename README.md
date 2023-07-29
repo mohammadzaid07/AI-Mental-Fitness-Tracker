@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Mohammad Zaid,
-- 👀 I’m a CSE student.
-- 🌱 I’m learning Full stack development, Python and C.
-- 📫 Reach me at mohdzaid07091997@gmail.com
+PROJECT  OVERVIEW 
 
-<!---
-mohammadzaid07/mohammadzaid07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The AI Mental Fitness Tracker project aims to develop a machine learning-based system that monitors and enhances users' mental well-being. 
+
+By collecting data from various sources, extracting meaningful features, and training a model, the project provides personalized insights, feedback, and interventions. 
+
+The objectives include developing the AI-powered tracker, training a model to identify patterns related to mental well-being, improving the system through adaptive learning. 
+
+Ultimately, the project empowers individuals to actively manage their mental health, detect issues early, and offer accessible support, while emphasizing the importance of professional mental health care.
